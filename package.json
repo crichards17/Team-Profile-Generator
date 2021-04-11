@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Generates HTML describing a coding team given user inputs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "_tests_"
+  },
+  "scripts": {
+    "test": "npx jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crichards17/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crichards17/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/crichards17/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
