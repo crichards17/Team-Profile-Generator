@@ -24,7 +24,8 @@
 </ol>
 
 ## Demo:
-[Click here for demo video](./assets/images/Demo.mp4)
+[Video format available here](./assets/images/Demo.mp4)
+![Demo_gif](./assets/images/Demo.gif)
 
 ## License
 This code is provided under the MIT open-source license.    
